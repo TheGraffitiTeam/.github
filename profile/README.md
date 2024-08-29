@@ -1,5 +1,5 @@
 ## Greetings from Team Graffiti👋
-We are just a small group of passionate people trying to make reusable open source hardware and software that give it a soul. 
+We are just a small group of passionate people trying to make reusable open source hardware and software that gives it a soul. 
 
 Currently what we are working on:
 #### The Graffiti Machine 
