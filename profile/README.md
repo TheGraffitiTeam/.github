@@ -1,9 +1,10 @@
-## Hi there 👋
+## Greetings from Team Graffiti👋
+We are just a small group of passionate people trying to make reusable open source hardware and software that give it a soul. 
 
-**Here are some ideas to get you started:**
+Currently what we are working on:
+#### The Graffiti Machine 
+It's just a simple hardware kit that anyone can use to make their own things like a DIY printer maybe? Or maybe some industrial machine for mass producing their product?
+This is still under development and once we have a proper working model we are open sourcing the whole design including the CAD files and proper documentation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+regards,
+The Graffiti Team
