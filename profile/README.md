@@ -7,4 +7,5 @@ It's just a simple hardware kit that anyone can use to make their own things lik
 This is still under development and once we have a proper working model we are open sourcing the whole design including the CAD files and proper documentation.
 
 regards,
+
 The Graffiti Team
