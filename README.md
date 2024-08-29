@@ -1,1 +1,1 @@
-# .github
+# The Graffiti Team
