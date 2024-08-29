@@ -8,6 +8,5 @@ This is still under development and once we have a proper working model we are o
 
 
 
-regards,
-
+regards
 The Graffiti Team
